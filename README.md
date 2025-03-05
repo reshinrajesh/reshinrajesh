@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshinrajesh&label=Profile%20views&color=0e75b6&style=flat" alt="reshinrajesh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/res_plusxtimes" target="blank"><img src="https://img.shields.io/twitter/follow/res_plusxtimes?logo=twitter&style=for-the-badge" alt="res_plusxtimes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/reshinrajesh" target="blank"><img src="https://img.shields.io/twitter/follow/res_plusxtimes?logo=twitter&style=for-the-badge" alt="res_plusxtimes" /></a> </p>
 
 - Worked on Nightguard - Final Year CSE Project
 
